@@ -1,0 +1,1 @@
+Para inicializar el front end debemos ubicarnos en la carpeta react-frontend y en la terminal de PowerShell escribir npm start
